@@ -1,0 +1,14 @@
+{
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/anirudharun19",
+      "image": "images/social/twitter.svg"
+    },
+    {
+      "name": "linkedin",
+      "url": "https://www.linkedin.com/in/anirudh-arun-2823b3204/",
+      "image": "images/social/linkedin.svg"
+    }
+  ]
+}
